@@ -1,0 +1,28 @@
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f2f2f2;
+}
+
+h1 {
+  text-align: center;
+}
+
+input {
+  padding: 8px;
+  width: 200px;
+}
+
+button {
+  padding: 8px;
+  background-color: blue;
+  color: white;
+  border: none;
+}
+
+ul {
+  margin-top: 15px;
+}
+
+li {
+  margin-bottom: 5px;
+}
